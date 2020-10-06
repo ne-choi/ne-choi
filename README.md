@@ -1,7 +1,7 @@
 #### :cherries: I like cherries :cherries:  
 
 :mortar_board: BBA from Sookmyung women's university  
-:books: Double majored in Business Administration and Korean Language & Literature  
+:pen: Double majored in Business Administration and Korean Language & Literature  
 :computer: Learning R, SQL, and Python  
 
 <div align = center>
