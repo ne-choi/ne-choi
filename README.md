@@ -1,8 +1,7 @@
-### Hi there 👋
+#### :cherries: I like cherries :cherries:  
 
-:cherries: I like cherries :cherries:  
 :woman_student: Sookmyung Women's Uinversity  
-:mortar_board: Business administration & Korean language & literature  
+                Business administration & Korean language & literature  
 :woman_technologist: Learning R, SQL, and Python  
 
 ![instagram badge](https://img.shields.io/badge/-instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ne_cho1) ![facebook badge](https://img.shields.io/badge/-facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008234148863) ![gmail badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naeun1218@gmail.com)
