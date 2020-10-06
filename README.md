@@ -1,12 +1,12 @@
 #### :cherries: I like cherries :cherries:  
 
-:woman_student: Sookmyung Women's Uinversity  
-                Business administration & Korean language & literature  
-:woman_technologist: Learning R, SQL, and Python  
+:mortar_board: BBA from Sookmyung women's university  
+:books: Double majored in Business Administration and Korean Language & Literature  
+:computer: Learning R, SQL, and Python  
 
 <div align = center>
 
-![gmail badge](https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:naeun1218@gmail.com) ![instagram badge](https://img.shields.io/badge/instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ne_cho1) ![facebook badge](https://img.shields.io/badge/facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008234148863) 
+![gmail badge](https://img.shields.io/badge/gmail-d14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:naeun1218@gmail.com) ![instagram badge](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ne_cho1) ![facebook badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008234148863) 
 
 </div>
 
