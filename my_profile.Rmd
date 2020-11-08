@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Naeun is
-BBA from Sookmyung women's university  
+BBA from Sookmyung Women's University  
 Double majored in Business Administration and Korean Language & Literature  
 Learning R, SQL, and Python  
 
