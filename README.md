@@ -10,7 +10,7 @@
 
 <div align = center>
 
-[![gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naeun1218@gmail.com)](mailto:naeun1218@gmail.com) [![instagram badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ne_cho1)](https://www.instagram.com/ne_cho1) [![facebook badge](https://img.shields.io/badge/-Facebook-1778f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008234148863)](https://www.facebook.com/profile.php?id=100008234148863) [![Tech badge](https://img.shields.io/badge/-Tech-24292E?style=flat-square&logo=github&logoColor=white&link=https://ne-choi.github.io)](https://ne-choi.github.io)
+[![gmail badge](https://img.shields.io/badge/-Gmail-b23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naeun1218@gmail.com)](mailto:naeun1218@gmail.com) [![instagram badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ne_cho1)](https://www.instagram.com/ne_cho1) [![facebook badge](https://img.shields.io/badge/-Facebook-1778f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100008234148863)](https://www.facebook.com/profile.php?id=100008234148863) [![Tech badge](https://img.shields.io/badge/-Blog-24292E?style=flat-square&logo=github&logoColor=white&link=https://ne-choi.github.io)](https://ne-choi.github.io)
 
 </div>
 
