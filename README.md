@@ -5,7 +5,7 @@
 
 :mortar_board: BBA from Sookmyung Women's University  
 :pen: Double majored in Business Administration and Korean Language & Literature  
-:computer: Learning R, SQL, and Python  
+:computer: Learning Python, SQL, R  
 :woman_technologist: Interested in NLP  
 
 <div align = center>
